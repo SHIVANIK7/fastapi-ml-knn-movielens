@@ -6,7 +6,7 @@ from pathlib import Path
 
 import requests
 
-DATA_URL = "https://url.uk.m.mimecastprotect.com/s/wasVCnOkQcvq8n1Qu9f5SJ9-Oy?domain=files.grouplens.org"
+DATA_URL = "https://files.grouplens.org/datasets/movielens/ml-100k.zip"
 
 
 def main() -> None:
